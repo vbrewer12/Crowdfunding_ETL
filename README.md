@@ -33,10 +33,17 @@ This group project involves Extracting, Transforming and Loading two files into 
 We then created a database
 
 
-#### Links
-Schema site
-https://app.quickdatabasediagrams.com/#/d/HVVizN
+#### How to run the analysis:
+-clone this repo:
+'https://github.com/vbrewer12/Crowdfunding_ETL.git'
+- Install dependencies:
+  'pip install pandas numpy datetime'
+-Schema site for DB
+'https://app.quickdatabasediagrams.com/#/d/HVVizN'
 
+#### Acknowledgments
+- Thank you to SMU and my instructor TED for guiding me through this learning journey <br>
+  as well as my project team mates!
 
 
 
