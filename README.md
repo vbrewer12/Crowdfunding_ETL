@@ -39,7 +39,7 @@ We then created a database
 
 
 #### How to run the analysis:
-* clone this repo:
+* clone this repo:<br>
 'https://github.com/vbrewer12/Crowdfunding_ETL.git'
 * Install dependencies:<br>
   'pip install pandas numpy datetime'<br>
