@@ -33,6 +33,10 @@ This group project involves Extracting, Transforming and Loading two files into 
 We then created a database
 
 
+#### Links
+Schema site
+https://app.quickdatabasediagrams.com/#/d/HVVizN
+
 
 
 
