@@ -2,26 +2,31 @@
 --------------------------------
 #### Team
 ---------
-* Francisco Gonzalez
-* Matt Westelman
-* Patrick Carpenter
-* Tiya Francy
-* Vanessa Brewer
+* _Francisco Gonzalez_
+* _Matt Westelman_
+* _Patrick Carpenter_
+* _Tiya Francy_
+* _Vanessa Brewer_
+  
 ## Overview
 -----------
-This group project involves Extracting, Transforming and Loading two files into a Crowdfunding database.
+This group project involves Extracting, Transforming and Loading two files into a Crowdfunding database using csv files.<br>
+
  Files Used:
  * crowdfunding.csv
  * contacts.csv
+   
 ## Technologies Used
 --------------------
- * Jupyter Notebook
- * Python
- * Pandas
- * Numpy
- * Datetime
- * QuickDBD
+ * _Jupyter Notebook_
+ * _Python_
+ * _Pandas_
+ * _Numpy_
+ * _Datetime_
+ * _QuickDBD_
+   
 # Objective
+
 1. Extract
     - In Jupyter import the pandas, numpy and DateTime libraries. Once that is done we imported the crowdfunding and contact csv files.
 3. Transform
@@ -36,9 +41,9 @@ We then created a database
 #### How to run the analysis:
 -clone this repo:
 'https://github.com/vbrewer12/Crowdfunding_ETL.git'
-- Install dependencies:
-  'pip install pandas numpy datetime'
--Schema site for DB
+- Install dependencies:<br>
+  'pip install pandas numpy datetime'<br>
+-Schema site for DB<br>
 'https://app.quickdatabasediagrams.com/#/d/HVVizN'
 
 #### Acknowledgments
