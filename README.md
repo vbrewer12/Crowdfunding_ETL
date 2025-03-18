@@ -39,11 +39,11 @@ We then created a database
 
 
 #### How to run the analysis:
--clone this repo:
+* clone this repo:
 'https://github.com/vbrewer12/Crowdfunding_ETL.git'
-- Install dependencies:<br>
+* Install dependencies:<br>
   'pip install pandas numpy datetime'<br>
--Schema site for DB<br>
+* Schema site for DB<br>
 'https://app.quickdatabasediagrams.com/#/d/HVVizN'
 
 #### Acknowledgments
